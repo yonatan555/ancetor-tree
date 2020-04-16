@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ancetor_tree.dir/main.cpp.o  -o ancetor_tree 
